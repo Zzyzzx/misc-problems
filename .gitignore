@@ -1,0 +1,31 @@
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+*.versionsBackup
+
+# Vim
+*~
+.*.sw?
+*.bak
+*.tmp
+
+# Git
+*.orig
+/bin/
+
+# Openshift
+ocp/
